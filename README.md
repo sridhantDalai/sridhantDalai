@@ -1,328 +1,75 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sridhant Dalai</h1>
 
-# SRIDHANT DALAI
+<h3 align="center">Software Developer • Machine Learning • Deep Learning • Web Development</h3>
 
-### Software Developer • Machine Learning • Deep Learning • Web Development
+<p align="center">
+  <i>Building things. Learning things. Breaking things. Building them better.</i>
+</p>
 
-**Building things. Learning things. Breaking things. Building them better.**
-
-<br>
-
-<a href="https://github.com/sridhantDalai">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-F7B731?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sridhantDalai&style=for-the-badge&color=blue" alt="Profile Views" />
-
-</div>
-
----
+<br/>
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Sridhant Dalai**, a developer interested in building software and exploring the world of **Machine Learning, Deep Learning and Web Development**.
+Hey! I'm Sridhant, a developer interested in building software and exploring the vast world of Machine Learning, Deep Learning, and Web Development. 
 
-I'm currently pursuing **B.Tech in ECE-VLSI at NIT Patna**.
+- 🎓 I'm currently pursuing my **B.Tech in ECE-VLSI** at **NIT Patna**.
+- 🛠️ I enjoy learning by building — from machine-learning models and neural networks to full-stack applications, APIs, and interactive web experiences.
+- 💡 Currently exploring how different technologies can seamlessly come together to build things that are actually useful.
 
-I enjoy learning by building — from machine-learning models and neural networks to full-stack applications, APIs and interactive web experiences.
+> **My Philosophy:** Learn → Build → Break → Debug → Improve → Repeat
 
-Currently exploring how different technologies can come together to build things that are actually useful.
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
----
+<br/>
 
 ## ⚡ My Tech Stack
 
-<div align="center">
-
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql,matlab" />
-
-<br><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
 ### Machine Learning & Data
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter" />
-
-<br><br>
-
-**Machine Learning • Neural Networks • Deep Learning • Data Analysis • Recommendation Systems**
-
-<br><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+*Machine Learning • Neural Networks • Deep Learning • Data Analysis • Recommendation Systems*
 
 ### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,vite,scss,fastapi" />
-
-<br><br>
-
-**React • JavaScript • REST APIs • Backend Development • Responsive UI**
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-
-<br><br>
-
-### Other
-
-**Blockchain • Google Maps API • Gemini API • Data Structures & Algorithms**
-
-</div>
-
----
-
-## 🎮 Interactive Skills World
-
-<div align="center">
-
-### 🧠 Explore My Skills
-
-**A physics-inspired interactive world where each element represents something I work with.**
-
-<br>
-
-```text
-                 ┌─────────────────┐
-                 │     PYTHON      │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │ MACHINE LEARNING│
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │  DEEP LEARNING  │
-                 └────────┬────────┘
-                          ↓
-              ┌───────────┴───────────┐
-              ↓                       ↓
-       ┌─────────────┐         ┌─────────────┐
-       │    REACT    │         │   BACKEND   │
-       └─────────────┘         └─────────────┘
-              ↓                       ↓
-              └───────────┬───────────┘
-                          ↓
-                   ┌─────────────┐
-                   │  BLOCKCHAIN │
-                   └─────────────┘
-```
-
-<br>
-
-🎮 **Interactive Skills World — Coming Soon**
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/sridhantDalai">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sridhantDalai&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-</a>
-
-<a href="https://github.com/sridhantDalai">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhantDalai&layout=compact&theme=transparent&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/sridhantDalai">
-  <img src="https://streak-stats.demolab.com/?user=sridhantDalai&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-### Watch My Contributions Come Alive
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sridhantDalai/sridhantDalai/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sridhantDalai/sridhantDalai/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/sridhantDalai/sridhantDalai/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
-</div>
-
----
-
-## 🧩 LeetCode
-
-<div align="center">
-
-### Problem Solving
-
-<a href="YOUR_LEETCODE_URL">
-
-<img
-src="YOUR_LEETCODE_STATS_IMAGE"
-alt="LeetCode Stats"
-/>
-
-</a>
-
-<br><br>
-
-**Data Structures • Algorithms • Problem Solving**
-
-</div>
-
----
-
-## 📁 My Repositories
-
-<div align="center">
-
-### Things I've Built
-
-</div>
-
-| Project                              | Description                                             | Technologies                                     |
-| ------------------------------------ | ------------------------------------------------------- | ------------------------------------------------ |
-| 🏠 **Bombay House Predictor**        | ML-based Mumbai real-estate price prediction            | Python • CatBoost • FastAPI • React              |
-| 🎵 **Spotify Recommendation Engine** | Neural-network based music recommendation system        | Python • NumPy • Neural Networks • Deep Learning |
-| 🚗 **turnSafe**                      | Road and turn safety focused web application            | React • Google Maps • APIs                       |
-| 🌐 **Portfolio**                     | Personal developer portfolio                            | React • JavaScript • SCSS                        |
-| 🎨 **Tatva 2026**                    | Fest/event web development project                      | React • Web Development                          |
-| ✍️ **Expresso**                      | Web platform for the college art & literature community | React • Web Development                          |
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/sridhantDalai?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🚀 Currently Learning
-
-<div align="center">
-
-```text
-              MACHINE LEARNING
-                     ↓
-              NEURAL NETWORKS
-                     ↓
-               DEEP LEARNING
-                     ↓
-             ADVANCED AI SYSTEMS
-```
-
-</div>
-
-Alongside AI, I'm continuously improving my:
-
-* 🧩 Data Structures & Algorithms
-* ⚙️ Backend Development
-* ⚛️ React Development
-* 🏗️ Software Engineering
-* 🔗 Blockchain Development
-* 🧠 Machine Learning & Deep Learning
-
----
-
-## 🎯 What I'm Interested In
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | 🧠 Machine Learning |
-| :------------------------: | :-----------------: |
-|  🌐 Full-Stack Development |   📊 Data Science   |
-|        🔗 Blockchain       |  ⚡ Developer Tools  |
-|        🧩 Algorithms       |  🎨 Interactive Web |
-
-</div>
-
----
-
-## 💡 My Approach
-
-<div align="center">
-
-### **Learn → Build → Break → Debug → Improve → Repeat**
-
-<br>
-
-I don't want to just learn technologies.
-
-**I want to understand them well enough to build something useful with them.**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in:
-
-**building projects • collaborating • learning • discussing tech**
-
-<br><br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-F7B731?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/sridhantDalai">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-### Thanks for visiting! 👋
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built with curiosity, caffeine, and way too many Git commits.</sub>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+</p>
+*React • JavaScript • REST APIs • Backend Development • Responsive UI*
+
+### Other Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
+</p>
+
+<br/>
+
+## 🧠 Skill Flow & Architecture
+
+*A visualization of how my technical stack interacts.*
+
+```mermaid
+graph TD;
+    A[Python] --> B[Machine Learning];
+    B --> C[Neural Networks];
+    C --> D[Deep Learning];
+    D --> E[React];
+    D --> F[Backend Development];
+    E --> G[Blockchain];
+    F --> G[Blockchain];
