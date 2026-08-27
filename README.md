@@ -60,16 +60,3 @@ Hey! I'm Sridhant, a developer interested in building software and exploring the
 
 <br/>
 
-## 🧠 Skill Flow & Architecture
-
-*A visualization of how my technical stack interacts.*
-
-```mermaid
-graph TD;
-    A[Python] --> B[Machine Learning];
-    B --> C[Neural Networks];
-    C --> D[Deep Learning];
-    D --> E[React];
-    D --> F[Backend Development];
-    E --> G[Blockchain];
-    F --> G[Blockchain];
