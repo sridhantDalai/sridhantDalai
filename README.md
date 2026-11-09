@@ -125,20 +125,37 @@ Beyond coding, I enjoy leading technical initiatives, collaborating with teams, 
 
 ---
 
-## 📈 GitHub at a glance
+
+<h2 align="center">📊 GitHub at a glance </h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sridhantDalai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhantDalai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=sridhantDalai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sridhantDalai&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sridhantDalai&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sridhantDalai&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridhantDalai&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sridhantDalai&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
 
 ---
 
