@@ -125,8 +125,7 @@ Beyond coding, I enjoy leading technical initiatives, collaborating with teams, 
 
 ---
 
-
-<h2 align="center">📊 GitHub at a glance </h2>
+<h2 align="center">📊 GitHub at a glance</h2>
 
 <p align="center">
   <img
@@ -148,14 +147,27 @@ Beyond coding, I enjoy leading technical initiatives, collaborating with teams, 
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sridhantDalai&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
+---
 
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sridhantDalai/sridhantDalai/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sridhantDalai/sridhantDalai/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/sridhantDalai/sridhantDalai/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
