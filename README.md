@@ -1,4 +1,4 @@
- <h1 align="center">Hey, I'm Sridhant Dalai 👋</h1>
+ <h1 align="center">Hey, I'm Sridhant Dalai </h1>
 
 <h3 align="center">Machine Learning & AI • Data Science • Full-Stack Development</h3>
 
